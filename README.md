@@ -1,7 +1,5 @@
 # ProteinFold AI 🧬🔬
 
-![ProteinFold AI Banner](https://your-image-url.com/proteinfold-ai-banner.png)
-
 ## Revolutionizing Protein Structure Prediction and Drug Discovery
 
 ProteinFold AI leverages cutting-edge deep learning models and molecular modeling techniques to accelerate drug discovery and enhance therapeutic design.
